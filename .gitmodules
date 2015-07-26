@@ -1,0 +1,3 @@
+[submodule "dircmp"]
+	path = dircmp
+	url = git@github.com:logston/dircmp.git
